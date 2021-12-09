@@ -1,0 +1,76 @@
+.cell {
+    width: 50px; height: 50px;
+    border:  1px solid black;
+    color:rgb(154, 192, 136);
+        padding: 4px;;
+}
+.table {
+    border: 1px solid black; 
+    border-collapse: collapse;
+      padding: inherit; 
+}
+.blok {
+    width: 400px; margin-left: 200px;
+    background: rgb(218, 168, 31);
+    padding: 4px;
+    padding-right: 20px;
+    border: solid 1px black
+}
+.blok1 {
+    width: auto; height: 40px;
+    background:lavender;
+    padding: 4px;
+    padding-right: 20px;
+    border: solid 1px black
+}
+.spisok {
+    padding: 20px; 
+    }
+
+    .h1h6 {
+        font-size: 20px;
+    font-family:imprint MT Shadow ;
+         padding: 4px;
+    color:green;
+           }
+           .fram {
+            background-color: rgb(200, 216, 189);font-size: 20px;color: slategrey;float: inline-start;
+           }
+           #container {   
+            width: 400px;height: 20px; 
+            margin: 0 auto;
+        background-color: rgb(229, 236, 226)}
+           #container1 {   
+            width: 300px;height: 40px;
+            margin: 0 auto;
+            background-color: mediumblue;
+}
+#left {
+    width: 200px;
+	height: 100px;
+    float: left; 
+    background: rgb(255,51,102);  
+   }
+#right { 
+    width: 200px;
+	height: 100px;
+    float: left;  
+    background: rgb(0,255,153);  
+   } 
+#center { 
+    width: 200px;
+	height: 100px;
+    float: left;
+    background: rgb(255,0,0);  
+   } 
+   .p {
+       background-image: url="C:\Users\pegre\PROgects\Katitsme.github.io\mypath.jpg"; 
+   }
+   #divimg {
+       margin-block-start: 0px;
+    width: 1250px;
+    height: 800px;
+    background-image: url("mypath2.jpg");background-size:auto auto; background-attachment: local; background-position:center
+    ; color:white;}
+
+    .span {margin-block-start:0px; padding: 10px;}
